@@ -1,2 +1,2 @@
 # driverFront
-expo frontend for eaters app
+expo frontend for drivers of the eaters app
